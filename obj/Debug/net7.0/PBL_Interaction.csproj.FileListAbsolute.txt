@@ -1,0 +1,106 @@
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\appsettings.Development.json
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\appsettings.json
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\PBL_Interaction.staticwebassets.runtime.json
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\PBL_Interaction.exe
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\PBL_Interaction.deps.json
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\PBL_Interaction.runtimeconfig.json
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\PBL_Interaction.dll
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\PBL_Interaction.pdb
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.csproj.AssemblyReference.cache
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.GeneratedMSBuildEditorConfig.editorconfig
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.AssemblyInfoInputs.cache
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.AssemblyInfo.cs
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.csproj.CoreCompileInputs.cache
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.MvcApplicationPartsAssemblyInfo.cache
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.RazorAssemblyInfo.cache
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.RazorAssemblyInfo.cs
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\staticwebassets\msbuild.PBL_Interaction.Microsoft.AspNetCore.StaticWebAssets.props
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\staticwebassets\msbuild.build.PBL_Interaction.props
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PBL_Interaction.props
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PBL_Interaction.props
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\staticwebassets.pack.json
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\staticwebassets.build.json
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\staticwebassets.development.json
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\scopedcss\bundle\PBL_Interaction.styles.css
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\scopedcss\projectbundle\PBL_Interaction.bundle.scp.css
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.dll
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\refint\PBL_Interaction.dll
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.pdb
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.genruntimeconfig.cache
+D:\19PFIEV_DUT\Năm 4-HK8- PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\ref\PBL_Interaction.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\appsettings.Development.json
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\appsettings.json
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\PBL_Interaction.staticwebassets.runtime.json
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\PBL_Interaction.exe
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\PBL_Interaction.deps.json
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\PBL_Interaction.runtimeconfig.json
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\PBL_Interaction.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\PBL_Interaction.pdb
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Azure.Core.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Azure.Identity.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Humanizer.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\System.CodeDom.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\System.Memory.Data.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.csproj.AssemblyReference.cache
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.GeneratedMSBuildEditorConfig.editorconfig
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.AssemblyInfoInputs.cache
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.AssemblyInfo.cs
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.csproj.CoreCompileInputs.cache
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.MvcApplicationPartsAssemblyInfo.cache
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.RazorAssemblyInfo.cache
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.RazorAssemblyInfo.cs
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\staticwebassets\msbuild.PBL_Interaction.Microsoft.AspNetCore.StaticWebAssets.props
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\staticwebassets\msbuild.build.PBL_Interaction.props
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PBL_Interaction.props
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PBL_Interaction.props
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\staticwebassets.pack.json
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\staticwebassets.build.json
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\staticwebassets.development.json
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\scopedcss\bundle\PBL_Interaction.styles.css
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\scopedcss\projectbundle\PBL_Interaction.bundle.scp.css
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.csproj.CopyComplete
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\refint\PBL_Interaction.dll
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.pdb
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\PBL_Interaction.genruntimeconfig.cache
+D:\19PFIEV_DUT\Nam4_HK8_PFIEV\TuongTacN_M\PBL_Interaction\obj\Debug\net7.0\ref\PBL_Interaction.dll
